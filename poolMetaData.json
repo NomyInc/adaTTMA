@@ -1,4 +1,3 @@
-cat > poolMetaData.json << EOF
 {
 "name": "To The Moon ADA",
 "description": "To The Moon - ADA for funs",
